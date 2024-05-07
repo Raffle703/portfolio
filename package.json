@@ -1,28 +1,6 @@
 {
-  "name": "vite-mui-ts",
+  "name": "rahul_portfolio",
   "version": "1.0.0",
-  "description": "TypeScript + React + Redux + MUI + RRD + ESLint + Prettier => Boilerplate",
-  "license": "MIT",
-  "author": "emrecil <info.emrecil@gmail.com>",
-  "keywords": [
-    "react",
-    "boilerplate",
-    "typescript",
-    "starter",
-    "vite",
-    "redux",
-    "material-ui",
-    "rrd",
-    "prettier"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/emre-cil/vite-mui-ts.git"
-  },
-  "bugs": {
-    "url": "https://github.com/emre-cil/vite-mui-ts/issues"
-  },
-  "homepage": "https://github.com/emre-cil/vite-mui-ts#readme",
   "scripts": {
     "dev": "vite --open",
     "start": "vite --open",
